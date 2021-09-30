@@ -1,0 +1,71 @@
+@import "../css/standard.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+
+}
+
+html , body {
+    font-family: 'Roboto', sans-serif;
+    color: #252525;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.button-grad {
+  padding: 20px 40px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 5px;
+  color: #FFFFFF;
+  background: rgb(242,55,121);
+  background: linear-gradient(90deg, rgba(242,55,121,1) 35%, rgba(255,166,46,1) 100%);
+  border:transparent;
+}
+
+.border {
+  border: black 1px solid;
+}
+
+/* container */
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+@media (min-width 576px) {
+    .container{
+        max width: 540px;
+    }
+}   
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+/* container */

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="39" viewBox="0 0 40 39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.156" y1="1.086" x2="0.575" y2="0.202" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdba24"/>
+      <stop offset="0.6" stop-color="#f37a20"/>
+      <stop offset="0.683" stop-color="#f27020"/>
+      <stop offset="0.855" stop-color="#f06121"/>
+      <stop offset="1" stop-color="#f05d22"/>
+    </linearGradient>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 261 156">
+      <image width="261" height="156" xlink:href="Group%2092-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 191 133">
+      <image width="191" height="133" xlink:href="Group%2092-image2.png"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 51 33">
+      <image width="51" height="33" xlink:href="Group%2092-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 166 133">
+      <image width="166" height="133" xlink:href="Group%2092-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 88 55">
+      <image width="88" height="55" xlink:href="Group%2092-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 126 81">
+      <image width="126" height="81" xlink:href="Group%2092-image6.png"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 107 88">
+      <image width="107" height="88" xlink:href="Group%2092-image7.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_92" data-name="Group 92" transform="translate(266.813 -1433) rotate(90)">
+    <path id="Path_437" data-name="Path 437" d="M1472.125,247.952l-4.03-4.03-4.03,4.03-5.111,5.111-2.29-2.29,5.111-5.111h0l4.03-4.03-13.171-13.171-19.491,19.491,19.491,19.491,4.03-4.03L1441.2,247.952l11.431-11.431,5.111,5.111-9.141,9.141,8.335,8.335h0l2.015,2.015h0Z" transform="translate(-0.125 -0.675)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_98" data-name="Rectangle 98" width="32" height="20" transform="translate(1433 226.813)" fill="url(#pattern)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+    <g id="Group_89" data-name="Group 89" transform="translate(1442.117 227.306)" style="mix-blend-mode: soft-light;isolation: isolate">
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="23" height="17" transform="translate(-0.117 -0.494)" fill="url(#pattern-2)"/>
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="5" height="3" transform="translate(22.883 16.506)" fill="url(#pattern-3)"/>
+    </g>
+    <g id="Group_90" data-name="Group 90" transform="translate(1436.039 250.605)" style="mix-blend-mode: overlay;isolation: isolate">
+      <rect id="Rectangle_101" data-name="Rectangle 101" width="20" height="16" transform="translate(-0.039 0.208)" fill="url(#pattern-4)"/>
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="9" height="6" transform="translate(16.961 3.208)" fill="url(#pattern-5)"/>
+    </g>
+    <g id="Group_91" data-name="Group 91" transform="translate(1443.13 250.605)" style="mix-blend-mode: overlay;isolation: isolate">
+      <rect id="Rectangle_103" data-name="Rectangle 103" width="15" height="10" transform="translate(9.87 0.208)" fill="url(#pattern-6)"/>
+      <rect id="Rectangle_104" data-name="Rectangle 104" width="13" height="11" transform="translate(-0.13 5.208)" fill="url(#pattern-7)"/>
+    </g>
+  </g>
+</svg>

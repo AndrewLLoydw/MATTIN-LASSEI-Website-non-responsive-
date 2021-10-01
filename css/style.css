@@ -11,9 +11,9 @@
 .navbar-top-bg {
     background-image: url(../images/BG.svg);
     background-size: cover;
-    background-position: top;
+    background-position: center;
     height: 992px;
-    width: 100%;
+    min-width: 100%;
     background-repeat: no-repeat;
 
 }

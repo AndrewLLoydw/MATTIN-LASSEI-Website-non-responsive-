@@ -9,7 +9,7 @@
 /* top navbar */
 
 .navbar-top-bg {
-    background-image: url(../../images/BG.svg);
+    background-image: url(../images/BG.svg);
     background-size: cover;
     background-position: top;
     height: 992px;

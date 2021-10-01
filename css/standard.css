@@ -27,6 +27,7 @@ html , body {
   background: rgb(242,55,121);
   background: linear-gradient(90deg, rgba(242,55,121,1) 35%, rgba(255,166,46,1) 100%);
   border:transparent;
+  cursor: pointer;
 }
 
 .button-grad:hover{
